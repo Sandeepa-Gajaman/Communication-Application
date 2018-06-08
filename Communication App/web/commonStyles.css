@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 11, 2018, 9:11:12 PM
+    Author     : Ranul Deepanayake
+*/
+
+.button1{ width: 170px; height: 40px; color: white}
+
+.table1{ border-collapse: collapse;}
+.table1 td{ text-align: left; padding: 12px; width: 250px;}
+.table1 tr:nth-child(even){ background-color: #f2f2f2;}
+
+.table2{ border-collapse: collapse;}
+.table2 td{ text-align: left; padding: 10px; width: 250px;}
+.table2 tr:nth-child(even){ background-color: #f2f2f2;}
+
+
+
+
